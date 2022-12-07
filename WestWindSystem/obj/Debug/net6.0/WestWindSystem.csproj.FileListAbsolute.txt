@@ -1,0 +1,12 @@
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.deps.json
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.dll
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\bin\Debug\net6.0\WestWindSystem.pdb
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.csproj.AssemblyReference.cache
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.AssemblyInfoInputs.cache
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.AssemblyInfo.cs
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.csproj.CoreCompileInputs.cache
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.dll
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\refint\WestWindSystem.dll
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\WestWindSystem.pdb
+C:\Users\Sam Wu\source\repos\WestWindCreateProductReviewExercise\WestWindSystem\obj\Debug\net6.0\ref\WestWindSystem.dll
